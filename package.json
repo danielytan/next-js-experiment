@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^2.30.0",
     "gray": "^0.0.6",
     "gray-matter": "^4.0.3",
     "matter": "^0.2.0",
